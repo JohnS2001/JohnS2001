@@ -8,16 +8,10 @@ figlet "Welcome to my GitHub profile!" | lolcat
 echo
 sleep $SLEEP_TIME
 
-clear
-echo $PYTHONS
-figlet "I like Python"
-echo $PYTHONS
-echo
-sleep $SLEEP_TIME
 
 clear
 # $bold_color$bg[green]
-echo "$fg[green]Did you know that Python got its name from Monty Python?${reset_color}"
+echo "$fg[green]Did you know that Da Vinci biggest failure was to paint a mural on the wall of the Great Hall of the Palazzo Sforza in Milan?${reset_color}"
 sleep $SLEEP_TIME
 
 # ~/imgcat does not work in asciiterm since it's iTerm2 only
