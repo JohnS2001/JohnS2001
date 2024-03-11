@@ -1,3 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/JCoivAyez6l2TDQ4gS/giphy.gif" alt="Mona Lisa in the Louvre" style="width: 200%;">
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/JCoivAyez6l2TDQ4gS/giphy.gif" alt="Mona Lisa in the Louvre" width="4000">
+</p>
