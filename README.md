@@ -1,4 +1,4 @@
-![presentation.sh](https://github.com/e-caste/e-caste/raw/master/term.gif)
+![presentation.sh](https://github.com/JohnS2001/JohnS2001/blob/main/presentation.sh)
 
 <!--
 **JohnS2001/JohnS2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
