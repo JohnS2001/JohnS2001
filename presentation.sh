@@ -1,13 +1,10 @@
 #!/bin/zsh
 
-PYTHONS="🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍"
-SLEEP_TIME=2  # seconds
-
 autoload -U colors &> /dev/null
 colors &> /dev/null
 
 clear
-figlet "Welcome to e-caste's GitHub profile!" | lolcat
+figlet "Welcome to my GitHub profile!" | lolcat
 echo
 sleep $SLEEP_TIME
 
