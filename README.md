@@ -1,4 +1,5 @@
-![presentation.sh](https://github.com/JohnS2001/JohnS2001/blob/main/presentation.sh)
+![Mona Lisa in the Louvre](<iframe src="https://giphy.com/embed/JCoivAyez6l2TDQ4gS" width="322" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/france-mona-lisa-louvre-JCoivAyez6l2TDQ4gS">via GIPHY</a></p>)
+
 
 <!--
 **JohnS2001/JohnS2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
